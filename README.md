@@ -22,7 +22,7 @@ TODOs:
 - finish TODOs in evaluator.cpp
 - improve efficiency
 - automated testing
-- optional: Dockerfile
+- optional: Dockerfile, Cmakefile
 
 ## Running
 
